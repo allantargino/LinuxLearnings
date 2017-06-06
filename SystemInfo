@@ -1,0 +1,10 @@
+Para pegar o atual sistema Linux na máquina, rodar:
+
+```shell
+lsb_release -a
+```
+
+LSB = Linux Standard Base
+-a = all
+
+[Documentação](http://refspecs.linuxbase.org/LSB_2.0.1/LSB-PDA/LSB-PDA/lsbrelease.html)
